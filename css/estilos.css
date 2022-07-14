@@ -4,3 +4,11 @@ body{
     color: blue;
     background-color: aquamarine;
 }
+#a{
+margin: 50px;
+border:black;
+border-width: 3px;
+border-style: solid;
+margin: 100px;
+
+}
